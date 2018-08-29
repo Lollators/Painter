@@ -1,7 +1,7 @@
 // GCS Exercise 14.17 Solution: Painter.java
 // Test application to display a DrawFrame
 import javax.swing.JFrame;
-
+//comment
 public class Painter
 {
    public static void main(String[] args)
